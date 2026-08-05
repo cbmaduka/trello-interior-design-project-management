@@ -258,6 +258,14 @@ The board centralizes project information, automates repetitive actions, improve
 
 ---
 
+## Repository
+
+
+
+GitHub:
+
+cbmaduka/trello-interior-design-project-management
+
 # Author
 
 ## Chika Blessing
